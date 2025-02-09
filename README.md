@@ -7,7 +7,7 @@ This project uses data science techniques to analyze ride patterns and fare dyna
 ## Course Information
 
 - **Course**: BA780 - Master of Science in Business Analytics, Boston University
-- **Team Members**: Quan Minh Nguyen, Glenn Castellino, Neha Shastri, Raskirt Bhatia, Hyunjin Yu, Yifeng Chen
+- **Team Members**: Quan Nguyen, Glenn Castellino, Neha Shastri, Raskirt Bhatia, Hyunjin Yu, Yifeng Chen
 
 ## Dataset
 

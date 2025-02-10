@@ -17,7 +17,7 @@ The project utilizes NYC TLC trip data, which includes details such as pickup/dr
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/git-qmn/Analysis-of-Ride-Patterns.git
+   git clone https://github.com/git-qmn/Analysis-of-Ride-Patterns-and-Fare-Dynamics-in-New-York-City-TLC-Trips.git
    ```
 2. Install dependencies:
    ```sh
